@@ -1,0 +1,38 @@
+html {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+h1 {
+    color: black;
+}
+
+h2 {
+    color: #003457;
+    text-decoration: underline;
+}
+
+h3:hover, h4:hover,p:hover {
+    font-size: large;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+}
+
+a {
+    color: #006cb4;
+}
+
+#linker {
+    color:white;
+    background-color: #003457;
+    padding: 10px;
+    border-radius: 1em;
+}
+
+#linker:hover {
+    background-color: black;
+}
